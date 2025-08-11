@@ -1,0 +1,196 @@
+PNR,name,ticket_number,from,to,route,flight_date,support_calls,delay_minutes,class
+P1000,Lisa Davis,T1000,Lagos,Uyo,Lagos → Uyo,2024-10-31,2,118,Economy
+P1001,Katie Lucas,T1001,Abuja,Owerri,Abuja → Owerri,2024-08-04,0,50,Economy
+P1001,Katie Lucas,T1001,Owerri,Abuja,Owerri → Abuja,2024-09-17,3,1,Economy
+P1001,Katie Lucas,T1001,Lagos,Enugu,Lagos → Enugu,2024-12-10,1,43,Business
+P1002,Robert Farmer,T1002,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-07-14,2,83,Economy
+P1003,Deanna Lawson,T1003,Lagos,Enugu,Lagos → Enugu,2024-08-06,3,19,Economy
+P1003,Deanna Lawson,T1003,Enugu,Lagos,Enugu → Lagos,2024-10-29,3,54,Business
+P1003,Deanna Lawson,T1003,Uyo,Lagos,Uyo → Lagos,2025-01-23,0,76,Economy
+P1004,Ryan Mason,T1004,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-08-02,3,51,Business
+P1004,Ryan Mason,T1004,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-10-28,0,40,Economy
+P1005,Jared King,T1005,Lagos,Uyo,Lagos → Uyo,2024-12-06,1,66,Economy
+P1005,Jared King,T1005,Uyo,Lagos,Uyo → Lagos,2025-01-31,2,103,Economy
+P1006,Frank Davis,T1006,Uyo,Lagos,Uyo → Lagos,2024-12-29,1,22,Business
+P1006,Frank Davis,T1006,Lagos,Uyo,Lagos → Uyo,2025-01-15,1,58,Business
+P1007,Amber Luna,T1007,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-04-05,2,18,Economy
+P1007,Amber Luna,T1007,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-06-20,3,54,Business
+P1008,Michael Mendez,T1008,Uyo,Lagos,Uyo → Lagos,2024-08-17,3,55,Business
+P1008,Michael Mendez,T1008,Lagos,Uyo,Lagos → Uyo,2024-10-06,0,21,Economy
+P1008,Michael Mendez,T1008,Lagos,Enugu,Lagos → Enugu,2025-01-18,1,89,Business
+P1009,Adam Erickson,T1009,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-07-21,0,71,Business
+P1009,Adam Erickson,T1009,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-09-29,1,25,Business
+P1009,Adam Erickson,T1009,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-10-15,3,83,Economy
+P1010,Tara Knapp,T1010,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-07-06,0,104,Business
+P1010,Tara Knapp,T1010,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-09-04,2,29,Business
+P1011,Susan Hoffman,T1011,Enugu,Lagos,Enugu → Lagos,2024-11-19,0,24,Business
+P1012,Francisco Baker,T1012,Owerri,Abuja,Owerri → Abuja,2025-07-06,0,15,Business
+P1012,Francisco Baker,T1012,Abuja,Owerri,Abuja → Owerri,2025-07-26,2,96,Economy
+P1012,Francisco Baker,T1012,Lagos,Uyo,Lagos → Uyo,2025-12-05,3,24,Economy
+P1013,Claudia Cruz,T1013,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-05-15,2,40,Business
+P1013,Claudia Cruz,T1013,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-06-03,1,111,Economy
+P1014,Robert Buck,T1014,Lagos,Uyo,Lagos → Uyo,2024-07-19,2,5,Business
+P1015,Nicholas Jones,T1015,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-03-02,3,93,Economy
+P1016,Jerome Carter,T1016,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-08-14,2,65,Economy
+P1016,Jerome Carter,T1016,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-11-01,0,92,Business
+P1016,Jerome Carter,T1016,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-11-08,1,25,Economy
+P1017,Tanner Ford,T1017,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-08-20,0,69,Economy
+P1017,Tanner Ford,T1017,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-08-30,3,41,Business
+P1017,Tanner Ford,T1017,Abuja,Owerri,Abuja → Owerri,2024-10-11,1,81,Business
+P1018,Tiffany Yoder,T1018,Owerri,Abuja,Owerri → Abuja,2025-01-03,2,44,Economy
+P1018,Tiffany Yoder,T1018,Abuja,Owerri,Abuja → Owerri,2025-01-13,1,30,Business
+P1019,Laurie Donovan,T1019,Lagos,Uyo,Lagos → Uyo,2025-03-12,0,58,Business
+P1019,Laurie Donovan,T1019,Uyo,Lagos,Uyo → Lagos,2025-05-03,3,101,Business
+P1019,Laurie Donovan,T1019,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-07-28,2,86,Economy
+P1020,Thomas Garcia,T1020,Enugu,Lagos,Enugu → Lagos,2025-05-31,0,84,Business
+P1021,Natalie Walker,T1021,Lagos,Enugu,Lagos → Enugu,2025-06-20,0,16,Business
+P1022,Dana Newton,T1022,Lagos,Enugu,Lagos → Enugu,2024-12-09,1,60,Economy
+P1023,Russell Williams,T1023,Uyo,Lagos,Uyo → Lagos,2024-12-25,2,60,Business
+P1023,Russell Williams,T1023,Lagos,Uyo,Lagos → Uyo,2025-03-14,2,13,Business
+P1024,Cindy Perez,T1024,Lagos,Enugu,Lagos → Enugu,2025-04-28,3,71,Business
+P1024,Cindy Perez,T1024,Enugu,Lagos,Enugu → Lagos,2025-07-22,0,38,Economy
+P1024,Cindy Perez,T1024,Uyo,Lagos,Uyo → Lagos,2025-06-19,2,29,Economy
+P1025,Kevin Byrd,T1025,Uyo,Lagos,Uyo → Lagos,2025-01-13,3,59,Economy
+P1026,Marco Reynolds,T1026,Owerri,Abuja,Owerri → Abuja,2025-04-06,1,63,Economy
+P1026,Marco Reynolds,T1026,Abuja,Owerri,Abuja → Owerri,2025-06-12,2,72,Business
+P1027,Justin Andersen,T1027,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-10-21,0,77,Economy
+P1027,Justin Andersen,T1027,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-11-06,0,19,Economy
+P1028,Amanda Gallagher,T1028,Lagos,Enugu,Lagos → Enugu,2025-05-16,1,105,Business
+P1029,Andrea Harris,T1029,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-09-04,0,88,Economy
+P1029,Andrea Harris,T1029,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-11-01,3,20,Economy
+P1029,Andrea Harris,T1029,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-02-23,1,14,Economy
+P1030,Todd Evans,T1030,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-10-26,1,44,Economy
+P1030,Todd Evans,T1030,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-11-10,3,87,Business
+P1030,Todd Evans,T1030,Owerri,Abuja,Owerri → Abuja,2025-02-25,0,98,Economy
+P1031,Shelly Barr,T1031,Lagos,Uyo,Lagos → Uyo,2024-08-08,0,64,Economy
+P1031,Shelly Barr,T1031,Uyo,Lagos,Uyo → Lagos,2024-10-19,0,36,Economy
+P1031,Shelly Barr,T1031,Enugu,Lagos,Enugu → Lagos,2024-11-20,2,31,Economy
+P1032,James Chavez,T1032,Enugu,Lagos,Enugu → Lagos,2025-07-02,1,73,Economy
+P1032,James Chavez,T1032,Lagos,Enugu,Lagos → Enugu,2025-07-30,0,79,Economy
+P1033,Jessica Flores,T1033,Owerri,Abuja,Owerri → Abuja,2025-05-19,0,15,Economy
+P1034,Sandra Becker,T1034,Owerri,Abuja,Owerri → Abuja,2024-12-21,1,80,Economy
+P1035,Andrew Mcbride,T1035,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-08-31,3,5,Business
+P1035,Andrew Mcbride,T1035,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-11-14,1,58,Business
+P1036,Ashley Mendez,T1036,Lagos,Uyo,Lagos → Uyo,2025-05-22,3,4,Economy
+P1036,Ashley Mendez,T1036,Uyo,Lagos,Uyo → Lagos,2025-08-11,0,66,Business
+P1037,Kimberly Peterson,T1037,Abuja,Owerri,Abuja → Owerri,2025-05-01,2,38,Business
+P1038,Amy Smith,T1038,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-06-29,2,41,Business
+P1039,Jonathan Ramirez,T1039,Owerri,Abuja,Owerri → Abuja,2024-09-07,2,63,Economy
+P1039,Jonathan Ramirez,T1039,Abuja,Owerri,Abuja → Owerri,2024-10-16,0,82,Business
+P1039,Jonathan Ramirez,T1039,Enugu,Lagos,Enugu → Lagos,2024-12-04,3,18,Economy
+P1040,Paul Smith,T1040,Lagos,Uyo,Lagos → Uyo,2025-03-29,3,16,Economy
+P1041,Travis Mosley,T1041,Enugu,Lagos,Enugu → Lagos,2024-07-13,3,0,Business
+P1041,Travis Mosley,T1041,Lagos,Enugu,Lagos → Enugu,2024-07-24,2,54,Economy
+P1042,David Davis,T1042,Uyo,Lagos,Uyo → Lagos,2024-10-18,2,25,Business
+P1042,David Davis,T1042,Lagos,Uyo,Lagos → Uyo,2024-11-12,0,13,Business
+P1042,David Davis,T1042,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-11-29,2,45,Business
+P1043,Kevin Gomez,T1043,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-11-23,1,73,Business
+P1044,Daniel White,T1044,Enugu,Lagos,Enugu → Lagos,2025-03-12,1,12,Economy
+P1044,Daniel White,T1044,Lagos,Enugu,Lagos → Enugu,2025-05-04,3,108,Business
+P1044,Daniel White,T1044,Lagos,Enugu,Lagos → Enugu,2025-09-02,3,19,Business
+P1045,Peter Galvan,T1045,Uyo,Lagos,Uyo → Lagos,2024-10-18,2,26,Economy
+P1046,Rebecca Matthews,T1046,Owerri,Abuja,Owerri → Abuja,2025-04-09,0,88,Economy
+P1046,Rebecca Matthews,T1046,Abuja,Owerri,Abuja → Owerri,2025-06-14,1,47,Business
+P1047,Teresa Mullins,T1047,Enugu,Lagos,Enugu → Lagos,2025-04-13,1,88,Business
+P1047,Teresa Mullins,T1047,Lagos,Enugu,Lagos → Enugu,2025-05-22,3,28,Business
+P1048,Laura Taylor,T1048,Owerri,Abuja,Owerri → Abuja,2024-11-22,2,93,Business
+P1049,Christopher Hooper,T1049,Abuja,Owerri,Abuja → Owerri,2024-07-24,2,6,Economy
+P1050,Lisa Merritt,T1050,Enugu,Lagos,Enugu → Lagos,2025-01-15,2,103,Economy
+P1050,Lisa Merritt,T1050,Lagos,Enugu,Lagos → Enugu,2025-04-10,1,79,Economy
+P1050,Lisa Merritt,T1050,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-04-21,2,58,Business
+P1051,Timothy Martin,T1051,Lagos,Uyo,Lagos → Uyo,2024-07-15,3,107,Economy
+P1052,Amy Christian,T1052,Abuja,Owerri,Abuja → Owerri,2025-03-04,2,35,Business
+P1052,Amy Christian,T1052,Owerri,Abuja,Owerri → Abuja,2025-04-14,2,76,Business
+P1052,Amy Christian,T1052,Owerri,Abuja,Owerri → Abuja,2025-07-20,1,9,Business
+P1053,Terry Mathis,T1053,Lagos,Uyo,Lagos → Uyo,2025-03-11,3,47,Business
+P1054,Roger Brown,T1054,Uyo,Lagos,Uyo → Lagos,2024-08-11,1,82,Business
+P1055,Kenneth Alexander,T1055,Abuja,Owerri,Abuja → Owerri,2024-10-29,1,101,Business
+P1055,Kenneth Alexander,T1055,Owerri,Abuja,Owerri → Abuja,2024-12-29,3,75,Economy
+P1055,Kenneth Alexander,T1055,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-01-05,2,72,Business
+P1056,Elizabeth Carpenter MD,T1056,Uyo,Lagos,Uyo → Lagos,2025-06-18,0,69,Business
+P1056,Elizabeth Carpenter MD,T1056,Lagos,Uyo,Lagos → Uyo,2025-07-07,0,15,Economy
+P1056,Elizabeth Carpenter MD,T1056,Lagos,Enugu,Lagos → Enugu,2025-09-02,1,117,Business
+P1057,Rhonda Fuentes,T1057,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-05-27,0,117,Business
+P1058,David Smith,T1058,Uyo,Lagos,Uyo → Lagos,2024-12-01,0,50,Economy
+P1058,David Smith,T1058,Lagos,Uyo,Lagos → Uyo,2024-12-10,1,4,Business
+P1059,Melissa Potter,T1059,Enugu,Lagos,Enugu → Lagos,2025-02-26,1,30,Business
+P1060,Angela Sanford,T1060,Owerri,Abuja,Owerri → Abuja,2024-12-22,0,84,Business
+P1061,Nathan Schneider,T1061,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-01-29,1,64,Economy
+P1061,Nathan Schneider,T1061,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-04-28,1,42,Economy
+P1062,Michael Peters,T1062,Uyo,Lagos,Uyo → Lagos,2024-12-17,0,96,Business
+P1063,Rachael Mays,T1063,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-12-19,3,53,Economy
+P1063,Rachael Mays,T1063,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-01-22,2,108,Economy
+P1064,Travis Woods,T1064,Lagos,Uyo,Lagos → Uyo,2024-08-26,3,30,Economy
+P1064,Travis Woods,T1064,Uyo,Lagos,Uyo → Lagos,2024-09-30,2,90,Business
+P1065,Angel Vazquez,T1065,Owerri,Abuja,Owerri → Abuja,2024-11-11,2,59,Economy
+P1065,Angel Vazquez,T1065,Abuja,Owerri,Abuja → Owerri,2025-01-10,3,52,Business
+P1065,Angel Vazquez,T1065,Uyo,Lagos,Uyo → Lagos,2025-05-02,3,34,Economy
+P1066,Jessica Scott,T1066,Lagos,Uyo,Lagos → Uyo,2025-04-27,2,71,Economy
+P1066,Jessica Scott,T1066,Uyo,Lagos,Uyo → Lagos,2025-05-23,1,14,Economy
+P1067,Courtney Moody,T1067,Abuja,Owerri,Abuja → Owerri,2025-06-25,0,13,Business
+P1068,John Smith,T1068,Owerri,Abuja,Owerri → Abuja,2024-11-12,0,5,Economy
+P1069,Rebecca Mcgrath,T1069,Uyo,Lagos,Uyo → Lagos,2024-09-17,3,65,Economy
+P1069,Rebecca Mcgrath,T1069,Lagos,Uyo,Lagos → Uyo,2024-10-09,2,2,Economy
+P1069,Rebecca Mcgrath,T1069,Lagos,Enugu,Lagos → Enugu,2025-01-25,2,86,Economy
+P1070,Mallory Edwards,T1070,Abuja,Owerri,Abuja → Owerri,2025-05-22,1,100,Business
+P1071,David Anthony,T1071,Enugu,Lagos,Enugu → Lagos,2024-11-03,0,34,Business
+P1071,David Anthony,T1071,Lagos,Enugu,Lagos → Enugu,2024-12-22,1,76,Business
+P1072,Ruth Koch,T1072,Enugu,Lagos,Enugu → Lagos,2025-07-08,2,58,Business
+P1072,Ruth Koch,T1072,Lagos,Enugu,Lagos → Enugu,2025-07-18,0,65,Business
+P1072,Ruth Koch,T1072,Enugu,Lagos,Enugu → Lagos,2025-10-26,0,74,Business
+P1073,Nancy Evans,T1073,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-04-13,3,111,Business
+P1073,Nancy Evans,T1073,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-04-27,2,11,Business
+P1074,Katie Miller,T1074,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-03-11,0,21,Economy
+P1074,Katie Miller,T1074,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-06-09,1,14,Economy
+P1074,Katie Miller,T1074,Abuja,Owerri,Abuja → Owerri,2025-08-30,1,98,Economy
+P1075,Sharon Johnson,T1075,Lagos,Uyo,Lagos → Uyo,2024-07-12,2,91,Business
+P1075,Sharon Johnson,T1075,Uyo,Lagos,Uyo → Lagos,2024-08-27,2,23,Economy
+P1075,Sharon Johnson,T1075,Abuja,Owerri,Abuja → Owerri,2024-10-30,2,100,Economy
+P1076,James Williams,T1076,Lagos,Uyo,Lagos → Uyo,2024-10-03,1,107,Economy
+P1076,James Williams,T1076,Uyo,Lagos,Uyo → Lagos,2024-10-16,2,50,Business
+P1076,James Williams,T1076,Abuja,Owerri,Abuja → Owerri,2025-03-14,2,50,Economy
+P1077,Kayla Jones,T1077,Enugu,Lagos,Enugu → Lagos,2025-06-15,0,46,Economy
+P1078,Jason Cook,T1078,Lagos,Enugu,Lagos → Enugu,2024-12-25,2,22,Economy
+P1078,Jason Cook,T1078,Enugu,Lagos,Enugu → Lagos,2025-03-07,2,118,Business
+P1079,Alex Li,T1079,Lagos,Uyo,Lagos → Uyo,2024-08-23,3,37,Business
+P1080,Tracy Howard,T1080,Enugu,Lagos,Enugu → Lagos,2025-03-12,3,33,Economy
+P1080,Tracy Howard,T1080,Lagos,Enugu,Lagos → Enugu,2025-04-04,0,95,Economy
+P1080,Tracy Howard,T1080,Owerri,Abuja,Owerri → Abuja,2025-07-24,3,88,Economy
+P1081,Christopher Mills,T1081,Owerri,Abuja,Owerri → Abuja,2025-06-03,3,102,Business
+P1082,Susan Middleton,T1082,Enugu,Lagos,Enugu → Lagos,2024-09-29,0,74,Business
+P1083,Sierra Schultz,T1083,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-11-22,0,78,Business
+P1083,Sierra Schultz,T1083,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-01-15,0,46,Economy
+P1084,Peter Martinez,T1084,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-03-06,3,98,Business
+P1084,Peter Martinez,T1084,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-03-25,0,108,Business
+P1084,Peter Martinez,T1084,Lagos,Enugu,Lagos → Enugu,2025-04-07,1,20,Economy
+P1085,Crystal Barnes,T1085,Lagos,Uyo,Lagos → Uyo,2025-01-05,3,95,Economy
+P1086,Kelsey Miller,T1086,Owerri,Abuja,Owerri → Abuja,2024-09-24,1,71,Economy
+P1086,Kelsey Miller,T1086,Abuja,Owerri,Abuja → Owerri,2024-10-30,1,3,Business
+P1086,Kelsey Miller,T1086,Enugu,Lagos,Enugu → Lagos,2025-02-15,0,7,Economy
+P1087,Amanda Nichols,T1087,Abuja,Owerri,Abuja → Owerri,2025-05-10,1,57,Economy
+P1087,Amanda Nichols,T1087,Owerri,Abuja,Owerri → Abuja,2025-08-08,0,51,Business
+P1087,Amanda Nichols,T1087,Abuja,Owerri,Abuja → Owerri,2025-08-30,0,105,Business
+P1088,James Bryant,T1088,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-09-11,1,98,Economy
+P1089,Stacey Butler,T1089,Lagos,Uyo,Lagos → Uyo,2024-07-20,3,23,Business
+P1089,Stacey Butler,T1089,Uyo,Lagos,Uyo → Lagos,2024-08-06,0,68,Economy
+P1090,Tyler Johnson,T1090,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-10-21,2,75,Economy
+P1091,Robin Bernard,T1091,Owerri,Abuja,Owerri → Abuja,2024-09-16,3,53,Economy
+P1091,Robin Bernard,T1091,Abuja,Owerri,Abuja → Owerri,2024-10-13,3,49,Business
+P1091,Robin Bernard,T1091,Port Harcourt,Abuja,Port Harcourt → Abuja,2025-02-03,1,97,Economy
+P1092,Nicholas Wallace,T1092,Enugu,Lagos,Enugu → Lagos,2025-04-17,0,25,Economy
+P1092,Nicholas Wallace,T1092,Lagos,Enugu,Lagos → Enugu,2025-04-27,1,18,Economy
+P1092,Nicholas Wallace,T1092,Uyo,Lagos,Uyo → Lagos,2025-08-19,2,84,Economy
+P1093,Pamela Garcia,T1093,Enugu,Lagos,Enugu → Lagos,2024-12-27,3,82,Business
+P1093,Pamela Garcia,T1093,Lagos,Enugu,Lagos → Enugu,2025-01-19,3,63,Economy
+P1093,Pamela Garcia,T1093,Enugu,Lagos,Enugu → Lagos,2025-02-13,0,94,Economy
+P1094,Troy Christian,T1094,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-08-26,0,29,Business
+P1094,Troy Christian,T1094,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-09-02,1,118,Business
+P1094,Troy Christian,T1094,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-12-22,2,55,Economy
+P1095,Justin Reed,T1095,Lagos,Uyo,Lagos → Uyo,2025-01-08,0,85,Economy
+P1096,Jackie Garcia,T1096,Enugu,Lagos,Enugu → Lagos,2025-01-21,3,92,Economy
+P1097,Darius Fitzgerald,T1097,Lagos,Enugu,Lagos → Enugu,2025-04-03,3,120,Business
+P1098,Veronica Nixon,T1098,Enugu,Lagos,Enugu → Lagos,2025-04-23,3,8,Economy
+P1098,Veronica Nixon,T1098,Lagos,Enugu,Lagos → Enugu,2025-06-13,1,57,Business
+P1098,Veronica Nixon,T1098,Abuja,Port Harcourt,Abuja → Port Harcourt,2025-08-29,3,86,Economy
+P1099,Michael Brown,T1099,Owerri,Abuja,Owerri → Abuja,2025-01-29,0,108,Economy
+P1099,Michael Brown,T1099,Abuja,Owerri,Abuja → Owerri,2025-04-04,3,30,Business
